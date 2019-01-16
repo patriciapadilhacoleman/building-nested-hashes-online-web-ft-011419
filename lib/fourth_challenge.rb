@@ -7,7 +7,8 @@ def fourth_challenge
       :hero_friends => [
         { :name => "Steven",
           :age => "30",
-          :attitude =>
+          :attitude =>  "confused"
+        }
       ]
    }, 
    :capulet => {

@@ -9,8 +9,8 @@ def fourth_challenge
           :age => "17",
           :attitude =>  "worried"
         },
-        { :name => "Steven",
-          :age => "30",
+        { :name => "Mercutio",
+          :age => "18",
           :attitude =>  "confused"
         }
       ]
